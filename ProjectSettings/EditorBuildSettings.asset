@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/TSOmap.unity
+    path: Assets/Scenes/TSOmap.unity
     guid: d2e94601a479e9c40b849b7da9813b54
+  - enabled: 1
+    path: Assets/Scenes/TSOmap2.unity
+    guid: 8e8e2fefc7d624fc1af494122984f8ca
   m_configObjects: {}
